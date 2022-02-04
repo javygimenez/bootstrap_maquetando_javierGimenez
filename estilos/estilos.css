@@ -1,0 +1,14 @@
+.fondoNav{
+    background-image: url("../img/imagen_header.jpg");
+    background-repeat: repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.fondoFooter{
+    background-color: #deebdd;
+}
+
+.footIcons{
+    background-color: #fff;
+}
